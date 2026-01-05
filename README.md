@@ -24,7 +24,7 @@ Minha trilha de aprendizado está focada em construir uma base sólida no desenv
 | *Modelagem de Banco de Dados* | Adquirindo conhecimento para projetar estruturas de dados eficientes e escaláveis. |
 | *Design Profissional* | Desenvolvendo a sensibilidade para a experiência do usuário (UX) e interfaces (UI) atraentes. |
 
-## 🛠 Tecnologias e Ferramentas (Exemplo)
+## 🛠 Tecnologias e Ferramentas 
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
